@@ -23,7 +23,7 @@ spec:
     - name: BP_WEB_SERVER_ENABLE_PUSH_STATE
       value: "true"
     - name: BP_NODE_VERSION
-      value: "14.21.2"
+      value: "16.20.1"
   source:
     git:
       ref:
